@@ -8,6 +8,6 @@ So I made a little bookmarklet that hides the nagging modal login screen from li
 
 **Solution**  
 Make a new bookmark in your browser with the URL address  
-found in bookmarklet.js
+found in bookmarklet.js: [RAW](https://raw.githubusercontent.com/supermensa/linkedinwin/master/bookmarklet.js)
 
 You should inspect what the small amount of code does in hidenagscreen.js.
