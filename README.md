@@ -6,7 +6,7 @@ I find it annoying that LinkedIn requires me to sign up for their service just t
 
 So I made a little bookmarklet that hides the nagging modal login screen from linkedin.com and re-enables scroll on the profile page. 
 
-** Solution **  
+**Solution**  
 Make a new bookmark in your browser with the URL address  
 found in bookmarklet.js
 
